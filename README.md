@@ -7,7 +7,7 @@ Danyil Svyryd
 <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>Python
 
 
-<img src="https://simpleicons.org/icons/education.svg" alt="Education" width="30" height="30"/>Libraries: NumPy, Pandas, Matplotlib (and more)
+Libraries: NumPy, Pandas, Matplotlib (and more)
 
 Object-oriented programming and algorithms
 
